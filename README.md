@@ -1,4 +1,5 @@
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/5c3aefe7-7908-4664-8761-461f5d94211b" />![GitHub repo size](https://img.shields.io/github/repo-size/Nitikachoudhary66/car-selling-price?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/Nitikachoudhary66/car-selling-price?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nitikachoudhary66/car-selling-price?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/Nitikachoudhary66/car-selling-price?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Nitikachoudhary66/car-selling-price?color=red&style=plastic)
