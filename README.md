@@ -4,10 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Nitikachoudhary66/car-selling-price?color=red&style=plastic)
 
 # Car Selling Price Prediction
-### Quick Demo
-Here’s a quick demonstration of the application:
 
-![Demo GIF](https://github.com/your-username/your-repo-name/blob/main/demo.gif)
 
 ## Table of Contents
 
