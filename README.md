@@ -5,7 +5,7 @@
 
 # Car Selling Price Prediction
 # Live Demo 
-see the live using link :https://github.com/Nitikachoudhary66/car-selling-price/commit/affaed78e0d9bb1c32d1fe28a7c6fd07c20802ec
+see the live using link :demo-VEED.gif
 
 ## Table of Contents
 
