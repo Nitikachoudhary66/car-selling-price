@@ -24,7 +24,7 @@ The goal of this project is to predict the selling price of used cars based on v
 ---
 
 ### Quick Demo
-https://github.com/Nitikachoudhary66/car-selling-price/blob/main/demo.gif
+https://github.com/Nitikachoudhary66/car-selling-price/blob/main/demo-VEED.gif
 
 Using this project, users can predict the selling price of a car by filling out a form in the UI. The prediction result will be displayed directly on the interface.
 
