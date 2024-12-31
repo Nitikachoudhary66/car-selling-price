@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Nitikachoudhary66/car-selling-price?style=plastic)
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/5c3aefe7-7908-4664-8761-461f5d94211b" />![GitHub repo size](https://img.shields.io/github/repo-size/Nitikachoudhary66/car-selling-price?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nitikachoudhary66/car-selling-price?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/Nitikachoudhary66/car-selling-price?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Nitikachoudhary66/car-selling-price?color=red&style=plastic)
@@ -28,6 +28,10 @@ The goal of this project is to predict the selling price of used cars based on v
 Using this project, users can predict the selling price of a car by filling out a form in the UI. The prediction result will be displayed directly on the interface.
 
 ---
+## UI Screenshots
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/233ef620-e6fd-46cb-a605-d4d0599a4543" />
+
+
 
 ### Dataset Preview
 Below is a preview of the first five rows of the dataset:
