@@ -72,7 +72,11 @@ Below is a preview of the first five rows of the dataset:
 - **car data.csv**: Dataset used in the project.
 
 ---
+####Technologies Used
 
+Flask
+Pandas, NumPy, Scikit-learn
+HTML, CSS for UI
 ### Installation
 
 1. Clone this repository and navigate to the directory:
